@@ -1,14 +1,14 @@
 Hello, All the best
-
+<<<<<<< HEAD
 feature1()
 {
   int i =0;
 }
-
+=======
 feature2()
 {
    int i =0;
    float j=0;
 }
 
-
+>>>>>>> feature2
