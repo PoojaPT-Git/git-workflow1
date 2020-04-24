@@ -8,7 +8,9 @@ feature1()
 feature2()
 {
    int i =0;
-   float j=0;
+   float j =0;
 }
-
-
+security()
+{
+  // security patch
+}
